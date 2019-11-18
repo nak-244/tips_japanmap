@@ -169,7 +169,7 @@ iframeのサイズはmap.html読み込み後のcanvasのサイズを元に設定
 </head>
 <body>
 <div id="japan-map-container"></div>
-<input type="button" value="<<戻る" id="japan-map-back-btn"/>
+<input type="button" value="戻る" id="japan-map-back-btn"/>
 </body>
 </html>
 ~~~
