@@ -41,7 +41,7 @@ iframeのサイズはmap.html読み込み後のcanvasのサイズを元に設定
 
 ## map.html
 
-~~~html
+~~~
 <!DOCTYPE html>
 <html>
 <head>
